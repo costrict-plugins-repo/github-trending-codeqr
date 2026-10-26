@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "codeqr": {
+      "type": "http",
+      "url": "https://mcp.codeqr.io/mcp"
+    }
+  }
+}

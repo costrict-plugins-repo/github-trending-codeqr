@@ -1,0 +1,17 @@
+{
+  "name": "codeqr",
+  "displayName": "CodeQR - Link and QR Analytics",
+  "version": "0.2.0",
+  "description": "Create dynamic QR codes and branded short links you can edit after printing, route visitors with smart rules and A/B splits, and read scan and click analytics, through CodeQR's hosted MCP server.",
+  "author": {
+    "name": "CodeQR",
+    "email": "contact@codeqr.io",
+    "url": "https://codeqr.io"
+  },
+  "homepage": "https://codeqr.io",
+  "privacyPolicyUrl": "https://codeqr.io/en/privacy",
+  "repository": "https://github.com/codeqr-io/codeqr-plugin",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "keywords": ["qr code", "dynamic qr code", "short links", "link analytics", "a/b testing"]
+}
